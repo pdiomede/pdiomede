@@ -11,5 +11,6 @@ Currently working on tools to improve Indexer performance and transparency, like
 - 🗣️ Let's connect:
   - [LinkedIn](https://www.linkedin.com/in/pdiomede/)
   - [X/Twitter](https://x.com/pdiomede)
+  - [My company](https://nemax.tech)
 
 > *“Decentralization is not a goal — it's a direction.”*
