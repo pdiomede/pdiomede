@@ -9,8 +9,8 @@ Currently working on tools to improve Indexer performance and transparency, like
 - 🧠 Building: [Graph Tools Pro](https://graphtools.pro)
 - 🛰️ Community: [Graphtronauts](https://x.com/graphtronauts_c)
 - 🗣️ Let's connect:
+  - [Personal Page](https://pdiomede.com)
   - [LinkedIn](https://www.linkedin.com/in/pdiomede/)
   - [X/Twitter](https://x.com/pdiomede)
-  - [My company](https://nemax.tech)
 
 > *“Decentralization is not a goal — it's a direction.”*
