@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paolo Diomede
 
-Web3 ecosystem builder with 20+ years of experience in tech and community leadership.  
+Web3 ecosystem builder with 25 years of experience in tech and community leadership.  
 Proven ability to scale global initiatives, foster decentralized governance, and manage high-stakes relationships.  
 Passionate about blockchain adoption and innovation, dashboard creator in The Graph Network.
 
