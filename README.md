@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Paolo Diomede
 
 Securing and growing Web3 through technical excellence and ecosystem leadership!
+
 Proven ability to scale global initiatives, foster decentralized governance, and manage high-stakes relationships.  
 
 Currently working on tools to improve Indexer performance and transparency, like [Indexer Score](https://indexerscore.com).
