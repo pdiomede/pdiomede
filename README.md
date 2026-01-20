@@ -1,4 +1,4 @@
-# Paolo Diomede, Technical Account Manager @ Certora
+# Paolo Diomede, Technical Account Manager | [Certora](https://certora.com)
 
 I help protocol teams ship safer smart contracts by translating risk into clear security requirements, then driving execution across **formal verification**, **smart contract auditing**, and **security-in-production** practices.
 
