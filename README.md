@@ -7,7 +7,7 @@ Certora is a smart contract security company focused on **preventing failures be
 
 ### Formal Verification (Certora Prover)
 Certora’s flagship product is the **Certora Prover**, a formal verification engine that checks smart contracts against specifications (rules and invariants), exploring edge cases that tests and manual review can miss.  
-Learn more: https://www.certora.com/prover and https://docs.certora.com/  [oai_citation:0‡certora.com](https://www.certora.com/prover?utm_source=chatgpt.com)
+Learn more: https://www.certora.com/prover and https://docs.certora.com
 
 ### Smart Contract Audits
 Certora also delivers **smart contract audits**, with a differentiator: combining **manual auditing** and **formal verification guarantees** in one engagement/report.  [oai_citation:1‡certora.com](https://www.certora.com/audits?utm_source=chatgpt.com)
